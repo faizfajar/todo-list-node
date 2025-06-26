@@ -26,7 +26,6 @@ Simple Todo List
     cp env.example .env
     * sesuaikan dengan username & password database local 
     DB_NAME = database utama aplikasi
-    DB_NAME_TEST = database untuk unit test ( integration test) aplikasi
     ```
 
 4.  **Jalankan migrasi database:**
