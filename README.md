@@ -1,5 +1,3 @@
-# [Nama Proyek Anda]
-
 Simple Todo List
 
 ---
